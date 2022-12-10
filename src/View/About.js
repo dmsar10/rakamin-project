@@ -6,8 +6,8 @@ function About(){
             <h1 className='font-bold text-2xl pl-3 pt-3'>
                 About Us
             </h1>
-             <p className='font-medium text-m pl-5 pt-2'>
-                RankUP! is an apps that help you find a full party of your favourite game and also the best of the best player that we can get!
+             <p className='font-medium text-m pl-3 pr-2 pt-2'>
+                Meong^-^! is an apps that help you to find your best listener and best buddy! Yes it's a cat!
              </p>
         </div>
     )
