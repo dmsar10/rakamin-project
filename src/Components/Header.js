@@ -5,7 +5,7 @@ function Header(){
     return (
         <header className="border-b-4 border-black p-4 flex justify-between items-center">
             <span className='font-bold text-2xl'>
-            Meong^-^!
+            Meong^^ 🐈
             </span>
 
             <Navigation />
