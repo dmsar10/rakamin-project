@@ -1,7 +1,5 @@
-import React, { useEffect, useState } from "react";
-import axios from "axios"
+import React from "react";
 import Loader from "../Components/Loader";
-import Product from "./Product";
 import ProductCard from "../Components/ProductCard";
 import { useAxiosGet } from "../Hooks/HttpRequests";
 
